@@ -1,1 +1,3 @@
-this is a.txt fileS
+this is a.txt file
+edit file a.txt for commit c4
+edit file a.txt for commit c6
